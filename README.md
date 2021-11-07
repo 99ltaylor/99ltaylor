@@ -28,7 +28,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 [5]:https://github.com/99ltaylor/chitter-challenge
 
 ---
-### 🎨 &nbsp; ... and some of my policy design & strategy work.
+### 🎨 &nbsp; ... some of my policy design & strategy work.
 
 | Title    | Description |
 | -------- | --------|
@@ -40,16 +40,24 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 
   ---
 
-### ⚙️ &nbsp; Where I've worked before: 
+### ⚙️ &nbsp; Where I've worked: 
 
- * <strong>Software Engineering Student</strong>, <em>Makers Academy</em>
  * <strong>Programme Manager with Service Designer responsibilities</strong>, <em>UK Government</em>
   * <strong>Town Planner with Project Manager responsibilities</strong>, <em>London Borough of Southwark Council​</em>
   * <strong>Teach First Teacher</strong>, <em>Teach First</em>
   * <strong>Project Management Intern</strong>, <em>UN-Habitat</em>
 
-### 🚴🏽‍♂️ &nbsp; My hobbies & Interests
-Training to become a triathlete, lover of Lego, trains and the great outdoors.
+### ⚙️ &nbsp; What I've studied: 
+
+ * <strong>Software Engineering Student</strong>, <em>Makers Academy</em>
+ * <strong>Service Design Certificate</strong>, <em>University of Arts London (UAL)</em>
+ * <strong>Graduate Diploma of Law (GDL)</strong>, <em>Nottingham Law School</em>
+ * <strong>Postgraduate Certificate of Education (PGCE)</strong>, <em>UCL Institute of Education</em>
+ * <strong>MA International Development & Planning</strong>, <em>University of Sheffield</em>
+ * <strong>BA (Honours) Urban Studies & Planning</strong>, <em>University of Sheffield & University of Illinois Urbana-Champaign</em>
+
+### 🚴🏽‍♂️ &nbsp; A few of my hobbies & Interests
+Training to become an triathlete, lover of Lego, trains and their stations, and the great outdoors.
 
 ---
 <h3 align="center"> I'm open to connecting with new teams and individuals.<br>
