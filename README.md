@@ -56,7 +56,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 
 ### 🏆 &nbsp; Awards I am honoured to have received
 
- * Makers - Ambassador Programme,
+ * Makers Ambassador Programme,
  * Bar European Group Phoenicia Scholarship,
  * Regional Studies Association Travel Grant - World Bank Land and Poverty Conference,
  * Santander Bank Dissertation Travel Award,
