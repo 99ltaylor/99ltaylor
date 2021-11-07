@@ -16,7 +16,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 | -------- | --------|--------| -------- |
 |[Sneaker Seeker][1]|Final group project, a web app that suggests new footwear options for sneaker enthusiasts.|10 Days|React, Express, Javascript|
 |[Bank Tech Test][2]|An example tech test, written in ruby to demonstrate TDD, OOP and clean code principles.|3 Days|Ruby|
-| [Acebook][3]|Group project. A clone of facebook, including log-in functionality, posts, comments and likes. This was my first project using React.|10 Days|Ruby, Rails, HTML|
+| [Acebook][3]|Group project. A clone of facebook, including log-in functionality, posts, comments and likes. Deployed with Heroku.|10 Days|Ruby, Rails, HTML|
 | [Sunrise B'n'B][4]|Group project. A clone of Air B'n'B.|5 Days|Ruby, Sinatra, SQL, HTML, CSS|
 | [Chitter Challenge][5]| A ruby app built with REST API and PostgreSQL on Sinatra. One of my first full stack attempts.|2 Days| Ruby, PostgreSQL|
 
