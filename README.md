@@ -57,10 +57,9 @@ I studied at Makers Academy. The course focused on pair programming, test driven
  * <strong>BA (Honours) Urban Studies & Planning</strong>, <em>University of Sheffield & University of Illinois Urbana-Champaign</em>
 
 ### 🏔 &nbsp; A few of my hobbies & Interests
-Getting physically ready for for my first triathlon. Lover of Lego, trains /  train stations, and the great outdoors.
-
+Getting physically ready for for my first triathlon. <br> Lover of Lego, trains /  train stations, and the great outdoors.
 ---
-<h3 align="center"> I'm open to connecting with new teams and individuals.</br>
+<h3 align="center"> I'm open to connecting with new teams and individuals.<br>
 You can reach me at <a href="mailto:99ltaylor@gmail.com">99ltaylor@gmail.com</a></h3>
 <h3 align="center"><a href="www.linkedin.com/in/lukeojtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></h3>
 
