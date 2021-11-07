@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋🏽 I'm Luke</h1>
+<h1 align="center">Hey, 👋🏽 I'm Luke!</h1>
 
 <h3 align="center">Previously a UK Government Civil Servant, and now a Full-Stack Developer </h3>
 
@@ -12,7 +12,7 @@
 ---
 ### 🛠 &nbsp; Some of my web development projects...
 
-At Makers Academy, my course focussed on pair programming, test driven development, agile processes, and learning by doing. Here's a selection of my projects that demonstrate my language skills and understanding of different technologies. 
+At Makers, the bootcamp course focusses on pair programming, test driven development, agile processes, and learning by doing. Here's a selection of my projects that demonstrate my technology and language skills.
 
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
@@ -57,10 +57,10 @@ Training to become a triathlete, lover of Lego and I enjoy being surrounded by t
 ---
 
 <h3 align="center"> 🌱   ...   🌿   ...   🌳  </h3>
-<br/><br><br/>
-<h3 align="center"> Always open to oppurtunities for growth.</h3>
+<br/><br>
+<h3 align="center"> Open to connecting with new teams and individuals.</h3>
 
-<h2 align="center">You can email me at 99ltaylor@gmail.com </h2>
+<h2 align="center">Email me at 99ltaylor@gmail.com </h2>
 <h2 align="center">  
 
 <a href="www.linkedin.com/in/lukeojtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
