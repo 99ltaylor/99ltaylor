@@ -56,14 +56,14 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 
 ### 🏆 &nbsp; Awards I am honoured to have received
 
- * <strong>Makers - Ambassador Programme</strong>,
- * <strong>Bar European Group Phoenicia Scholarship</strong>,
- * <strong>Regional Studies Association Travel Grant - World Bank Land and Poverty Conference</strong>,
- * <strong>Santander Bank Dissertation Travel Award</strong>,
- * <strong>Qualified Teacher Status</strong>,
- * <strong>The Honorable Society of the Inner Temple GDL Scholarship</strong>,
- * <strong>John Richings James Travel Award</strong>,
- * <strong>Joint Economic & Social Research Council & HMGovernment Fellowship</strong>.
+ * Makers - Ambassador Programme,
+ * Bar European Group Phoenicia Scholarship,
+ * Regional Studies Association Travel Grant - World Bank Land and Poverty Conference,
+ * Santander Bank Dissertation Travel Award,
+ * Qualified Teacher Status,
+ * The Honorable Society of the Inner Temple GDL Scholarship,
+ * John Richings James Travel Award,
+ * Joint Economic & Social Research Council & HMGovernment Fellowship.
  
 ### 🏔 &nbsp; A few things that keep me busy
 * Preparing for my first triathlon.
