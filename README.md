@@ -52,11 +52,11 @@ At Makers Academy focusses on pair programming, test driven development, agile p
 Training to become a triathlete, lover of Lego and I enjoy being surrounded by the great outdoors.
 
 ---
-<br/>
 <h3 align="center"> Open to connecting with new teams and individuals.</h3>
 
-<h2 align="center">Email me at 99ltaylor@gmail.com </h2>
-<h2 align="center">  
+<h2 align="center">You can email me at [99ltaylor@gmail.com](mailto:99ltaylor@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) </h2>
+
+
 
 <a href="www.linkedin.com/in/lukeojtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 
