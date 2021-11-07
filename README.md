@@ -46,7 +46,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 
 ### 📚 &nbsp; What I've studied
 
- * <strong>Software Engineering</strong>, <em>Makers Academy</em>
+ * <strong>Software Engineering Bootcamp</strong>, <em>Makers Academy</em>
  * <strong>Service Design</strong>, <em>University of Arts London (UAL)</em>
  * <strong>Graduate Diploma of Law (GDL)</strong>, <em>Nottingham Law School</em>
  * <strong>Postgraduate Certificate of Education (PGCE)</strong>, <em>UCL Institute of Education</em>
