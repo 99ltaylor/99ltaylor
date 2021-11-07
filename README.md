@@ -2,15 +2,6 @@
 
 <h3 align="center">Previously a UK Government Civil Servant, and now a Full-Stack Developer </h3>
 
-<p align="center">
- 📫 You can reach me at **99ltaylor@gmail.com**
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/lukeojtaylor" target="blank"><img align="center" src="www.linkedin.com/in/lukeojtaylor" alt="www.linkedin.com/in/lukeojtaylor" height="30" width="40" /></a>
-</p>
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,8 +51,12 @@ At Makers Academy, my course focussed on pair programming, test driven developme
 
 ---
 
-### 🏃🏽‍♂️🏊🏽‍♂️🚴🏽‍♂️ &nbsp; Hobbies & Interests: **Training to become triathlete, lover of (High Intensity Interval Training) HIIT workouts and being surrounded by nature.
+### 🏃🏽‍♂️🏊🏽‍♂️🚴🏽‍♂️ &nbsp; Hobbies & Interests:
+Training to become a triathlete, lover of Lego and being surrounded by the great outdoors.
 
 ---
 
-### 🌱 &nbsp; I'm always open to learning new things and meeting connecting with new people and companies**
+### 🌱 &nbsp; 
+Always open to learning, growing and connecting.
+
+<h1 align="center">You can reach me at 99ltaylor@gmail.com</h1>
