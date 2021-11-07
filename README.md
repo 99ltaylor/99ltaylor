@@ -11,7 +11,7 @@
 
 ### 🛠 &nbsp; Some of my web development projects...
 
-At Makers Academy focusses on pair programming, test driven development, agile processes, and learning by doing. Here's a selection of my projects that demonstrate my technology and language skills.
+I studied at Makers Academy, UK. The course focusses on pair programming, test driven development, agile processes, and learning by doing. Here's a selection of my projects that demonstrate my technology and language skills.
 
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
