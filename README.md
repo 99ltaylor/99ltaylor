@@ -56,10 +56,11 @@ I studied at Makers Academy. The course focused on pair programming, test driven
  * <strong>MA International Development & Planning</strong>, <em>University of Sheffield</em>
  * <strong>BA (Honours) Urban Studies & Planning</strong>, <em>University of Sheffield & University of Illinois Urbana-Champaign</em>
 
-### 🏔 &nbsp; A few of my hobbies & Interests
+### 🏔 &nbsp; A few things that keep me busy
 * Preparing for my first triathlon.
 * Learning Spanish & Portuguese.
-* Lover of Lego, trains and/or their stations, and the great outdoors.
+* Building Lego, being on trains or in their stations.
+* The great outdoors.
  ---
 
 <h3 align="center"> I'm open to connecting with new teams and individuals.</br>
