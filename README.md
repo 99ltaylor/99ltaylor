@@ -51,7 +51,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
  * <strong>Graduate Diploma of Law (GDL)</strong>, <em>Nottingham Law School</em>
  * <strong>Postgraduate Certificate of Education (PGCE)</strong>, <em>UCL Institute of Education</em>
  * <strong>MA International Development & Planning</strong>, <em>University of Sheffield</em>
- * <strong>BA (Honours) Urban Studies & Planning</strong>, <em>University of Sheffield & University of Illinois Urbana-Champaign</em>
+ * <strong>BA (Honours) Urban Studies & Planning</strong>, <em>University of Sheffield & University of Illinois Urbana-Champaign, USA</em>
 
 
 ### 🏆 &nbsp; Awards I am honoured to have received
