@@ -2,7 +2,6 @@
 
 <h3 align="center">Previously a UK Government Civil Servant. Now a Full-Stack Developer. </h3>
 
----
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> </p>
@@ -27,7 +26,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 [4]:https://github.com/Ifrahhssn/makersbnb-sunrise-collective
 [5]:https://github.com/99ltaylor/chitter-challenge
 
----
+
 ### 🎨 &nbsp; ... some of my policy design & strategy work
 
 | Title    | Description |
@@ -37,8 +36,6 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 
 [6]:https://99ltaylor.github.io/portfolio/#engaging_faith_communities
 [7]:https://99ltaylor.github.io/portfolio/#public_sector_equality_duty
-
-  ---
 
 ### ⚙️ &nbsp; Where I've worked
 
@@ -62,7 +59,6 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 * Lego / DIY.
 * Being on trains and/or in their stations.
 * The great outdoors.
- ---
 
 <h3 align="center"> I'm open to connecting with new teams and individuals.<br><br>
 You can reach me at <a href="mailto:99ltaylor@gmail.com">99ltaylor@gmail.com</a></h3>
