@@ -52,11 +52,16 @@ At Makers Academy, my course focussed on pair programming, test driven developme
 ---
 
 ### 🚴🏽‍♂️ &nbsp; Hobbies & Interests
-Training to become a triathlete, lover of Lego and being surrounded by the great outdoors.
+Training to become a triathlete, lover of Lego and I enjoy being surrounded by the great outdoors.
 
 ---
 
-<h3 align="center"> 🌱   ...   🌿   ...   🌳  
-Always open to learning, growing and connecting.</h3>
+<h3 align="center"> 🌱   ...   🌿   ...   🌳  <br/>
+Always open to learning and connecting.</h3>
 
-<h2 align="center">📬 You can contact me at 99ltaylor@gmail.com📬 </h2>
+<h2 align="center">Email me at 99ltaylor@gmail.com📬 </h2>
+<h2 align="center">  
+
+<a href="www.linkedin.com/in/lukeojtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+
+</h2>
