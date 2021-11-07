@@ -9,10 +9,9 @@
 
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
----
 ### 🛠 &nbsp; Some of my web development projects...
 
-At Makers, the bootcamp course focusses on pair programming, test driven development, agile processes, and learning by doing. Here's a selection of my projects that demonstrate my technology and language skills.
+At Makers Academy focusses on pair programming, test driven development, agile processes, and learning by doing. Here's a selection of my projects that demonstrate my technology and language skills.
 
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
@@ -49,15 +48,11 @@ At Makers, the bootcamp course focusses on pair programming, test driven develop
   * <strong>Teach First Teacher</strong>, <em>Teach First</em>
   * <strong>Project Management Intern</strong>, <em>UN-Habitat</em>
 
----
-
 ### 🚴🏽‍♂️ &nbsp; Hobbies & Interests
 Training to become a triathlete, lover of Lego and I enjoy being surrounded by the great outdoors.
 
 ---
-
-<h3 align="center"> 🌱   ...   🌿   ...   🌳  </h3>
-<br/><br>
+<br/>
 <h3 align="center"> Open to connecting with new teams and individuals.</h3>
 
 <h2 align="center">Email me at 99ltaylor@gmail.com </h2>
@@ -66,3 +61,4 @@ Training to become a triathlete, lover of Lego and I enjoy being surrounded by t
 <a href="www.linkedin.com/in/lukeojtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 
 </h2>
+<h3 align="center"> 🌱   ...   🌿   ...   🌳  </h3>
