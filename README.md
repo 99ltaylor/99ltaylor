@@ -47,7 +47,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 ### 📚 &nbsp; What I've studied
 
  * <strong>Software Engineering Bootcamp</strong>, <em>Makers Academy</em>
- * <strong>Service Design</strong>, <em>University of Arts London (UAL)</em>
+ * <strong>Service Design</strong>, <em>University of the Arts London (UAL)</em>
  * <strong>Graduate Diploma of Law (GDL)</strong>, <em>Nottingham Law School</em>
  * <strong>Postgraduate Certificate of Education (PGCE)</strong>, <em>UCL Institute of Education</em>
  * <strong>MA International Development & Planning</strong>, <em>University of Sheffield</em>
@@ -62,8 +62,8 @@ I studied at Makers Academy. The course focused on pair programming, test driven
  * Santander Bank Dissertation Travel Award,
  * Qualified Teacher Status,
  * The Honorable Society of the Inner Temple GDL Scholarship,
- * John Richings James Travel Award,
- * Joint Economic & Social Research Council & HMGovernment Fellowship.
+ * Joint Economic & Social Research Council & HMGovernment Fellowship,
+ * John Richings James Travel Award.
  
 ### 🏔 &nbsp; A few things that keep me busy
 * Preparing for my first triathlon.
