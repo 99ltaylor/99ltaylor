@@ -49,12 +49,12 @@ At Makers Academy focusses on pair programming, test driven development, agile p
   * <strong>Project Management Intern</strong>, <em>UN-Habitat</em>
 
 ### 🚴🏽‍♂️ &nbsp; Hobbies & Interests
-Training to become a triathlete, lover of Lego and I enjoy being surrounded by the great outdoors.
+Training to become a triathlete, lover of Lego, trains and the great outdoors.
 
 ---
 <h3 align="center"> Open to connecting with new teams and individuals.</h3>
 
-<h2 align="center">You can email me at [99ltaylor@gmail.com](mailto:99ltaylor@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) </h2>
+<h2 align="center">You can email me at [99ltaylor@gmail.com] </h2>
 
 
 
