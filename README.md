@@ -32,8 +32,8 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 
 | Title    | Description |
 | -------- | --------|
-|[Engaging Faith Communities][6]|I adapted Policy Lab's 'Styles of Government Intervention' as a framework for mapping current government engagement with faith communities. I identified gaps, and formed a  strategic plan to foster increased collaboration and engagement|
-|[Public Sector Equality Duty][7]|I worked alongside the senior leadership team to inform the borough's legal requirement to actively demonstrate it's Public Sector Equality Duty responsibilities. I designed and delivered a series of collaborative workshops for staff organisation-wide.|
+|[Engaging Faith Communities][6]|I adapted Policy Lab's 'Styles of Government Intervention' as a framework for mapping current government engagement with faith communities. I identified gaps, and formed a  strategic plan to foster increased collaboration and partnership.|
+|[Public Sector Equality Duty][7]|I worked alongside the senior leadership team to influence the organisation's delivery of it's statutory equality and diversity strategy - The Equality Act 2010 & Public Sector Equality Duty. I designed and delivered a series of organisation-wide collaborative staff workshops that challenged complacency and championed good practice.|
 
 [6]:https://99ltaylor.github.io/portfolio/#engaging_faith_communities
 [7]:https://99ltaylor.github.io/portfolio/#public_sector_equality_duty
