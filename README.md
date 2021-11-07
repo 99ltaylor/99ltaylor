@@ -1,6 +1,6 @@
 <h1 align="center">Hey, 👋🏽 I'm Luke!</h1>
 
-<h3 align="center">Previously a UK Government Civil Servant, and now a Full-Stack Developer </h3>
+<h3 align="center">Previously a UK Government Civil Servant. Now a Full-Stack Developer. </h3>
 
 ---
 
