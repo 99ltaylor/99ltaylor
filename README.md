@@ -18,7 +18,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 |[Bank Tech Test][2]|An example tech test, written in ruby to demonstrate TDD, OOP and clean code principles.|3 Days|Ruby|
 | [Acebook][3]|Group project. A clone of facebook, including log-in functionality, posts, comments and likes. Deployed using Heroku.|10 Days|Ruby, Rails, HTML|
 | [Sunrise B'n'B][4]|Group project. A clone of Air B'n'B.|5 Days|Ruby, Sinatra, PostgreSQL, HTML, CSS|
-| [Chitter Challenge][5]| A ruby app built with REST API and PostgreSQL on Sinatra. One of my first full stack attempts.|2 Days| Ruby, PostgreSQL|
+| [Chitter Challenge][5]| A ruby app built with REST API and PostgreSQL on Sinatra. One of my first full stack attempts.|2 Days| Sinatra, PostgreSQL, Becrypt, RSpec, Capybara|
 
 [1]:https://github.com/InfobyAdrienne/Test-React-Express
 [2]:https://github.com/99ltaylor/bank-tech-test
@@ -40,9 +40,9 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 ### ⚙️ &nbsp; Where I've worked
 
  * <strong>Programme Manager with Service Designer responsibilities</strong>, <em>UK Government</em>
-  * <strong>Town Planner with Project Manager responsibilities</strong>, <em>London Borough of Southwark Council​</em>
-  * <strong>Teach First Teacher</strong>, <em>Teach First</em>
-  * <strong>Project Management Intern</strong>, <em>UN-Habitat</em>
+ * <strong>Town Planner with Project Manager responsibilities</strong>, <em>London Borough of Southwark Council​</em>
+ * <strong>Teach First Teacher</strong>, <em>Teach First</em>
+ * <strong>Project Management Intern</strong>, <em>UN-Habitat</em>
 
 ### 📚 &nbsp; What I've studied
 
