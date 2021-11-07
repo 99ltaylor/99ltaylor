@@ -22,7 +22,7 @@ At Makers Academy, my course focussed on pair programming, test driven developme
 | [Sunrise B'n'B][4]|Group project. A clone of Air B'n'B.|5 Days|Ruby, Sinatra, SQL, HTML, CSS|
 | [Chitter Challenge][5]| A ruby app built with REST API and PostgreSQL on Sinatra. One of my first full stack attempts.|2 Days| Ruby, PostgreSQL|
 
-[1]:https://github.com/bibicollins/array_of_sunshine
+[1]:https://github.com/InfobyAdrienne/Test-React-Express
 [2]:https://github.com/99ltaylor/bank-tech-test
 [3]:https://github.com/99ltaylor/acebook-all-css-no-style
 [4]:https://github.com/Ifrahhssn/makersbnb-sunrise-collective
@@ -33,11 +33,11 @@ At Makers Academy, my course focussed on pair programming, test driven developme
 
 | Title    | Description |
 | -------- | --------|
-|[Engaging Faith Communities][1]|I adapted Policy Lab's 'Styles of Government Intervention' as a framework for mapping current government engagement with faith communities. I identified gaps, and formed a  strategic plan to foster increased collaboration and engagement|
-|[Public Sector Equality Duty][2]|I worked alongside the senior leadership team to inform the borough's legal requirement to actively demonstrate it's Public Sector Equality Duty responsibilities. I designed and delivered a series of collaborative workshops for staff organisation-wide.|
+|[Engaging Faith Communities][6]|I adapted Policy Lab's 'Styles of Government Intervention' as a framework for mapping current government engagement with faith communities. I identified gaps, and formed a  strategic plan to foster increased collaboration and engagement|
+|[Public Sector Equality Duty][7]|I worked alongside the senior leadership team to inform the borough's legal requirement to actively demonstrate it's Public Sector Equality Duty responsibilities. I designed and delivered a series of collaborative workshops for staff organisation-wide.|
 
-[1]:https://99ltaylor.github.io/portfolio/#engaging_faith_communities
-[2]:https://99ltaylor.github.io/portfolio/#public_sector_equality_duty
+[6]:https://99ltaylor.github.io/portfolio/#engaging_faith_communities
+[7]:https://99ltaylor.github.io/portfolio/#public_sector_equality_duty
 
   ---
 
