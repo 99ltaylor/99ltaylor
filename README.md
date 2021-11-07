@@ -59,7 +59,8 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 ### 🏔 &nbsp; A few things that keep me busy
 * Preparing for my first triathlon.
 * Learning Spanish & Portuguese.
-* Building Lego, being on trains and/or in their stations.
+* Lego / DIY.
+* Being on trains and/or in their stations.
 * The great outdoors.
  ---
 
