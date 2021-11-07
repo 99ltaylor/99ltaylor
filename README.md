@@ -1,9 +1,9 @@
 <h1 align="center">Hey! 👋🏽 I'm Luke</h1>
 
-<h3 align="center">Previously a UK Government Civil Servant, and now a full-stack developer </h3>
+<h3 align="center">Previously a UK Government Civil Servant, and now a Full-Stack Developer </h3>
 
 <p align="center">
-📫 You can reach me at **99ltaylor@gmail.com**
+ 📫 You can reach me at **99ltaylor@gmail.com**
 </p>
 
 <h3 align="left">Connect with me:</h3>
