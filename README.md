@@ -49,15 +49,15 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 
 ### 📚 &nbsp; What I've studied
 
- * <strong>Software Engineering Student</strong>, <em>Makers Academy</em>
- * <strong>Service Design Certificate</strong>, <em>University of Arts London (UAL)</em>
+ * <strong>Software Engineering</strong>, <em>Makers Academy</em>
+ * <strong>Service Design</strong>, <em>University of Arts London (UAL)</em>
  * <strong>Graduate Diploma of Law (GDL)</strong>, <em>Nottingham Law School</em>
  * <strong>Postgraduate Certificate of Education (PGCE)</strong>, <em>UCL Institute of Education</em>
  * <strong>MA International Development & Planning</strong>, <em>University of Sheffield</em>
  * <strong>BA (Honours) Urban Studies & Planning</strong>, <em>University of Sheffield & University of Illinois Urbana-Champaign</em>
 
 ### 🚴🏽‍♂️ &nbsp; A few of my hobbies & Interests
-Training for my first triathlon. Lover of Lego, trains /  train stations, and the great outdoors.
+Getting physically ready for for my first triathlon. Lover of Lego, trains /  train stations, and the great outdoors.
 
 ---
 <h3 align="center"> I'm open to connecting with new teams and individuals.</br>
