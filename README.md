@@ -59,7 +59,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
  * Makers Ambassador Programme,
  * Bar European Group Phoenicia Scholarship,
  * Regional Studies Association Travel Grant - World Bank Land and Poverty Conference,
- * Santander Bank Dissertation Travel Award,
+ * Santander Bank Dissertation Award,
  * Qualified Teacher Status,
  * The Honorable Society of the Inner Temple GDL Scholarship,
  * Joint Economic & Social Research Council & HMGovernment Fellowship,
