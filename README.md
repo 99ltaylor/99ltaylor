@@ -1,7 +1,10 @@
 <h1 align="center">Hey! 👋🏽 I'm Luke</h1>
+
 <h3 align="center">Previously a UK Government Civil Servant, and now a full-stack developer </h3>
 
+<p align="center">
 📫 You can reach me at **99ltaylor@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +19,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 ---
-### 🛠 &nbsp; Some of my developer projects
+### 🛠 &nbsp; Some of my web development projects...
 
 At Makers Academy, my course focussed on pair programming, test driven development, agile processes, and learning by doing. Here's a selection of my projects that demonstrate my language skills and understanding of different technologies. 
 
@@ -35,7 +38,7 @@ At Makers Academy, my course focussed on pair programming, test driven developme
 [5]:https://github.com/99ltaylor/chitter-challenge
 
 ---
-### 🎨 &nbsp; Policy design & strategy projects from working at UK Government
+### 🎨 &nbsp; Some of my policy design & strategy work...
 
 | Title    | Description |
 | -------- | --------|
@@ -57,9 +60,8 @@ At Makers Academy, my course focussed on pair programming, test driven developme
 
 ---
 
-⚡ Hobbies & Interests: **Wannabe triathlete, (High Intensity Interval Training) HIIT enthusiast and meditation newbie**
+### 🏃🏽‍♂️🏊🏽‍♂️🚴🏽‍♂️ &nbsp; Hobbies & Interests: **Training to become triathlete, lover of (High Intensity Interval Training) HIIT workouts and being surrounded by nature.
 
 ---
-<strong>Makers has been an intense and rewarding process, I'm excited about getting my teeth into a new and tasty tech challenge!</strong>
 
----
+### 🌱 &nbsp; I'm always open to learning new things and meeting connecting with new people and companies**
