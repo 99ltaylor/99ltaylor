@@ -28,7 +28,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 [5]:https://github.com/99ltaylor/chitter-challenge
 
 ---
-### 🎨 &nbsp; Some of my policy design & strategy work...
+### 🎨 &nbsp; ... and some of my policy design & strategy work.
 
 | Title    | Description |
 | -------- | --------|
@@ -40,7 +40,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 
   ---
 
-### ⚙️ &nbsp; Where I've worked
+### ⚙️ &nbsp; Where I've worked before: 
 
  * <strong>Software Engineering Student</strong>, <em>Makers Academy</em>
  * <strong>Programme Manager with Service Designer responsibilities</strong>, <em>UK Government</em>
@@ -48,7 +48,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
   * <strong>Teach First Teacher</strong>, <em>Teach First</em>
   * <strong>Project Management Intern</strong>, <em>UN-Habitat</em>
 
-### 🚴🏽‍♂️ &nbsp; Hobbies & Interests
+### 🚴🏽‍♂️ &nbsp; My hobbies & Interests
 Training to become a triathlete, lover of Lego, trains and the great outdoors.
 
 ---
