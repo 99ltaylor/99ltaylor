@@ -53,7 +53,7 @@ Training to become a triathlete, lover of Lego, trains and the great outdoors.
 
 ---
 <h3 align="center"> I'm open to connecting with new teams and individuals.<br>
-You can reach me at <99ltaylor@gmail.com> </h3>
+You can reach me at<a href="mailto:99ltaylor@gmail.com">99ltaylor@gmail.com</a></h3>
 <h3 align="center"><a href="www.linkedin.com/in/lukeojtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></h3>
 
 <h3 align="center"> 🌱   ...   🌿   ...   🌳  </h3>
