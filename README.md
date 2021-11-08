@@ -76,4 +76,4 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 You can reach me at <a href="mailto:99ltaylor@gmail.com">99ltaylor@gmail.com</a></h3>
 <h3 align="center"><a href="https://www.linkedin.com/in/lukeojtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></h3>
 <br><br>
-<h3 align="center"> 🐛     ...   ...   ...   ...   ...   ...   🦋  </h3>
+<h3 align="center">  🍎                🐛     ...   ...   ...   ...   ...   ...   🦋  </h3>
