@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-### 🛠 &nbsp; Some of my web development projects...
+### 🛠 &nbsp; Web development projects
 
 I studied at Makers Academy. The course focused on pair programming, test driven development, agile processes, and learning by doing. Here's a selection of my projects that demonstrate my technology and language skills.
 
@@ -27,7 +27,9 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 [5]:https://github.com/99ltaylor/chitter-challenge
 
 
-### 🎨 &nbsp; ... some of my policy design & strategy influence
+### 🎨 &nbsp; Policy Design, Strategy & Influence
+
+As a Civil Servant, I developed my understanding of strategy and operations in big organisations and historic institutions. I used my design and teaching skills to support and upskill my teams.
 
 | Title    | Description |
 | -------- | --------|
@@ -40,9 +42,13 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 ### ⚙️ &nbsp; Where I've worked
 
  * <strong>Programme Manager with Service Designer responsibilities</strong>, <em>UK Government</em>
- * <strong>Town Planner with Project Manager & Diversity & Inclusion Lead responsibilities</strong>, <em>London Borough of Southwark Council​</em>
+ * <strong>Town Planner with Project Manager & Diversity & Inclusion Lead responsibilities</strong>, <em>London Borough of Southwark Council</em>
  * <strong>Teach First Teacher</strong>, <em>Schools in Hackney & Islington, Teach First</em>
  * <strong>Project Management Intern</strong>, <em>UN-Habitat</em>
+
+### 🧠 &nbsp; Growth Mindset
+
+I am a qualified teacher and I mentor at [akt](https://www.akt.org.uk/). I always aim to adopt a [growth mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ&ab_channel=StanfordAlumni), and I believe that [collaboration brings growth](https://www.ted.com/talks/sir_ken_robinson_changing_education_paradigms/up-next).
 
 ### 📚 &nbsp; What I've studied
 
@@ -52,7 +58,6 @@ I studied at Makers Academy. The course focused on pair programming, test driven
  * <strong>Postgraduate Certificate of Education (PGCE)</strong>, <em>UCL Institute of Education</em>
  * <strong>MA International Development & Planning</strong>, <em>University of Sheffield</em>
  * <strong>BA (Honours) Urban Studies & Planning</strong>, <em>University of Sheffield & University of Illinois Urbana-Champaign, USA</em>
-
 
 ### 🏆 &nbsp; Awards I am honoured to have received
 
