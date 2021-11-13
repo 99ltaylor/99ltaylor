@@ -27,9 +27,9 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 [5]:https://github.com/99ltaylor/chitter-challenge
 
 
-### 🎨 &nbsp; Policy Design, Strategy & Influence
+### 🎨 &nbsp; Policy design, strategy & influence
 
-As a Civil Servant, I developed my understanding of strategy and operations in big organisations and historic institutions. I used my design and teaching skills to support and upskill my teams.
+As a Civil Servant, I developed my understanding of strategy and operations in big organisations and historic institutions. I used my design and teaching skills to support and upskill the team.
 
 | Title    | Description |
 | -------- | --------|
