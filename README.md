@@ -41,7 +41,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 
  * <strong>Programme Manager with Service Designer responsibilities</strong>, <em>UK Government</em>
  * <strong>Town Planner with Project Manager & Diversity & Inclusion Lead responsibilities</strong>, <em>London Borough of Southwark Council​</em>
- * <strong>Teach First Teacher</strong>, <em>Teach First</em>
+ * <strong>Teach First Teacher</strong>, <em>Schools in Hackney & Islington, Teach First</em>
  * <strong>Project Management Intern</strong>, <em>UN-Habitat</em>
 
 ### 📚 &nbsp; What I've studied
