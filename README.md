@@ -39,16 +39,16 @@ As a Civil Servant, I developed my understanding of strategy and operations in b
 [6]:https://99ltaylor.github.io/portfolio/#engaging_faith_communities
 [7]:https://99ltaylor.github.io/portfolio/#public_sector_equality_duty
 
+### 🧠 &nbsp; Growth Mindset
+
+ * I am a qualified teacher and I mentor at [akt](https://www.akt.org.uk/). I always aim to adopt a [growth mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ&ab_channel=StanfordAlumni), and I believe that [collaboration brings growth](https://www.ted.com/talks/lorna_davis_a_guide_to_collaborative_leadership/transcript?language=en).
+
 ### ⚙️ &nbsp; Where I've worked
 
  * <strong>Programme Manager with Service Designer responsibilities</strong>, <em>UK Government</em>
  * <strong>Town Planner with Project Manager & Diversity & Inclusion Lead responsibilities</strong>, <em>London Borough of Southwark Council</em>
  * <strong>Teach First Teacher</strong>, <em>Schools in Hackney & Islington, Teach First</em>
  * <strong>Project Management Intern</strong>, <em>UN-Habitat</em>
-
-### 🧠 &nbsp; Growth Mindset
-
- * I am a qualified teacher and I mentor at [akt](https://www.akt.org.uk/). I always aim to adopt a [growth mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ&ab_channel=StanfordAlumni), and I believe that [collaboration brings growth](https://www.ted.com/talks/lorna_davis_a_guide_to_collaborative_leadership/transcript?language=en).
 
 ### 📚 &nbsp; What I've studied
 
