@@ -39,7 +39,7 @@ As a Civil Servant, I developed my understanding of strategy and operations in b
 [6]:https://99ltaylor.github.io/portfolio/#engaging_faith_communities
 [7]:https://99ltaylor.github.io/portfolio/#public_sector_equality_duty
 
-### 🧠 &nbsp; Growth Mindset
+### 🧠 &nbsp; Growth mindset
 
  * I am a qualified teacher and I mentor at [akt](https://www.akt.org.uk/). I always aim to adopt a [growth mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ&ab_channel=StanfordAlumni), and I believe that [collaboration brings growth](https://www.ted.com/talks/lorna_davis_a_guide_to_collaborative_leadership/transcript?language=en).
 
