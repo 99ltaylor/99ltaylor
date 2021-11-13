@@ -1,6 +1,6 @@
 <h1 align="center">Hey, 👋🏽 I'm Luke!</h1>
 
-<h3 align="center">Previously a Teacher, then a Government Civil Servant. Now a Full-Stack Developer. </h3>
+<h3 align="center">Previously a Teacher, then a Whitehall Civil Servant. Now a Full-Stack Developer. </h3>
 
 
 <h3 align="center">Languages and Tools</h3>
