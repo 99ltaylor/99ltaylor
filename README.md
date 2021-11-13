@@ -78,7 +78,7 @@ As a Civil Servant, I developed my understanding of strategy and operations in b
 * The great outdoors.
 
 <h3 align="center"> I'm open to connecting with new individuals and teams.<br><br>
-You can reach me at <a href="mailto:99ltaylor@gmail.com">99ltaylor@gmail.com</a></h3>
+You can reach me at <a href="mailto:99ltaylor@gmail.com">99ltaylor@gmail.com<br>or</a></h3>
 <h3 align="center"><a href="https://www.linkedin.com/in/lukeojtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></h3>
 <br><br>
 <h3 align="center">                🐛     ...   ...   ...   ...   ...   ...   🦋  </h3>
