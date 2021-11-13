@@ -29,7 +29,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 
 ### 🎨 &nbsp; Policy design, strategy & influence
 
-As a Civil Servant, I developed my understanding of strategy and operations in big organisations and historic institutions. I used my design and teaching skills to support and upskill the team.
+As a Civil Servant, I developed an understanding of strategy and operations in big organisations and historic institutions. I used my design and teaching skills to support and upskill the team.
 
 | Title    | Description |
 | -------- | --------|
@@ -41,7 +41,7 @@ As a Civil Servant, I developed my understanding of strategy and operations in b
 
 ### 🧠 &nbsp; Growth mindset
 
- * I am a qualified teacher and I mentor at [akt](https://www.akt.org.uk/). I always aim to adopt a [growth mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ&ab_channel=StanfordAlumni), and I believe that [collaboration brings growth](https://www.ted.com/talks/lorna_davis_a_guide_to_collaborative_leadership/transcript?language=en).
+ * I am a qualified teacher and I mentor at [akt](https://www.akt.org.uk/). I always aim to adopt a [growth mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ&ab_channel=StanfordAlumni). I believe that [collaboration brings growth](https://www.ted.com/talks/lorna_davis_a_guide_to_collaborative_leadership/transcript?language=en).
 
 ### ⚙️ &nbsp; Where I've worked
 
@@ -77,7 +77,7 @@ As a Civil Servant, I developed my understanding of strategy and operations in b
 * Being on trains and/or in their stations.
 * The great outdoors.
 
-<h3 align="center">Connect with me at <mailto:99ltaylor@gmail.com> <br>or<br></h3>
+<h3 align="center">Connect with me at<br><a href=mailto:99ltaylor@gmail.com<br>or<br>></h3> 
 <h3 align="center"><a href="https://www.linkedin.com/in/lukeojtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></h3>
 <br><br>
 <h3 align="center">                🐛     ...   ...   ...   ...   ...   ...   🦋  </h3>
