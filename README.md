@@ -1,6 +1,6 @@
 <h1 align="center">Hey, 👋🏽 I'm Luke!</h1>
 
-<h3 align="center">Previously a Teacher and Town Planner. Now a Full-Stack Developer. </h3>
+<h3 align="center">Previously a Teacher, then a Town Planner. Now a Full-Stack Developer. </h3>
 
 
 <h3 align="center">Languages and Tools</h3>
@@ -77,7 +77,7 @@ As a Civil Servant, I developed my understanding of strategy and operations in b
 * Being on trains and/or in their stations.
 * The great outdoors.
 
-<h3 align="center">or</h3>
+<h3 align="center">Connect with me at 99ltaylor@gmail.com <br> or</h3>
 <h3 align="center"><a href="https://www.linkedin.com/in/lukeojtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></h3>
 <br><br>
 <h3 align="center">                🐛     ...   ...   ...   ...   ...   ...   🦋  </h3>
