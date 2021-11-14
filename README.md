@@ -15,16 +15,14 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
 |[Sneaker Seeker][1]|Final group project, a web app that suggests new footwear options for sneaker enthusiasts.|10 Days|React, Express, Javascript, Jasmine|
-|[Bank Tech Test][2]|An example tech test, written in ruby to demonstrate TDD, OOP and clean code principles.|3 Days|Ruby, RSpec|
-| [Acebook][3]|Group project. A clone of facebook, including log-in functionality, posts, comments and likes. Deployed using Heroku.|10 Days|Ruby, Rails, HTML, RSpec|
-| [Sunrise B'n'B][4]|Group project. A clone of Air B'n'B.|5 Days|Ruby, Sinatra, PostgreSQL, HTML, CSS, RSpec|
-| [Chitter Challenge][5]| A ruby app built with REST API and PostgreSQL on Sinatra. One of my first full stack attempts.|2 Days| Sinatra, PostgreSQL, Becrypt, RSpec, Capybara|
+| [Acebook][2]|Group project. A clone of facebook, including log-in functionality, posts, comments and likes. Deployed using Heroku.|10 Days|Ruby, Rails, HTML, RSpec|
+| [Sunrise B'n'B][3]|Group project. A clone of Air B'n'B.|5 Days|Ruby, Sinatra, PostgreSQL, HTML, CSS, RSpec|
+| [Chitter Challenge][4]| A ruby app built with REST API and PostgreSQL on Sinatra. One of my first full stack attempts.|2 Days| Sinatra, PostgreSQL, Becrypt, RSpec, Capybara|
 
 [1]:https://github.com/InfobyAdrienne/Test-React-Express
-[2]:https://github.com/99ltaylor/bank-tech-test
-[3]:https://github.com/99ltaylor/acebook-all-css-no-style
-[4]:https://github.com/Ifrahhssn/makersbnb-sunrise-collective
-[5]:https://github.com/99ltaylor/chitter-challenge
+[2]:https://github.com/99ltaylor/acebook-all-css-no-style
+[3]:https://github.com/Ifrahhssn/makersbnb-sunrise-collective
+[4]:https://github.com/99ltaylor/chitter-challenge
 
 
 ### 🎨 &nbsp; Policy design, strategy & influence
@@ -33,11 +31,11 @@ As a Civil Servant, I developed an understanding of strategy and operations in b
 
 | Title    | Description |
 | -------- | --------|
-|[Engaging Faith Communities][6]|I adapted Policy Lab's 'Styles of Government Intervention' as a framework for mapping current government engagement with faith communities. I identified gaps, and formed a  strategic plan to foster increased collaboration and partnership.|
-|[Public Sector Equality Duty][7]|I worked alongside the senior leadership team to influence the organisation's delivery of it's statutory equality and diversity strategy - The Equality Act 2010 & Public Sector Equality Duty. I designed and delivered a series of organisation-wide collaborative staff workshops that challenged complacency and championed good practice.|
+|[Engaging Faith Communities][5]|I adapted Policy Lab's 'Styles of Government Intervention' as a framework for mapping current government engagement with faith communities. I identified gaps, and formed a  strategic plan to foster increased collaboration and partnership.|
+|[Public Sector Equality Duty][6]|I worked alongside the senior leadership team to influence the organisation's delivery of it's statutory equality and diversity strategy - The Equality Act 2010 & Public Sector Equality Duty. I designed and delivered a series of organisation-wide collaborative staff workshops that challenged complacency and championed good practice.|
 
-[6]:https://99ltaylor.github.io/portfolio/#engaging_faith_communities
-[7]:https://99ltaylor.github.io/portfolio/#public_sector_equality_duty
+[5]:https://99ltaylor.github.io/portfolio/#engaging_faith_communities
+[6]:https://99ltaylor.github.io/portfolio/#public_sector_equality_duty
 
 ### 🧠 &nbsp; Growth mindset
 
