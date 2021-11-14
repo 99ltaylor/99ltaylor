@@ -41,7 +41,7 @@ As a Civil Servant, I developed an understanding of strategy and operations in b
 
 ### 🧠 &nbsp; Growth mindset
 
- * I am a qualified teacher and I mentor at [akt](https://www.akt.org.uk/). I always aim to adopt a [growth mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ&ab_channel=StanfordAlumni). I believe that [collaboration brings growth](https://www.ted.com/talks/lorna_davis_a_guide_to_collaborative_leadership/transcript?language=en).
+ * I am a qualified teacher and I mentor at [akt](https://www.akt.org.uk/). I always aim to adopt a [growth mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ&ab_channel=StanfordAlumni). I believe that [collaboration](https://www.ted.com/talks/lorna_davis_a_guide_to_collaborative_leadership/transcript?language=en) is a key part of this.
 
 ### ⚙️ &nbsp; Where I've worked
 
