@@ -29,8 +29,8 @@ As a Civil Servant, I developed an understanding of strategy and operations in b
 
 | Title    | Description |
 | -------- | --------|
-|[Engaging Faith Communities][5]|I adapted Policy Lab's 'Styles of Government Intervention' as a framework for mapping current government engagement with faith communities. I identified gaps, and formed a  strategic plan to foster increased collaboration and partnership.|
-|[Public Sector Equality Duty][6]|I worked alongside the senior leadership team to influence the organisation's delivery of it's statutory equality and diversity strategy - The Equality Act 2010 & Public Sector Equality Duty. I designed and delivered a series of organisation-wide collaborative staff workshops that challenged complacency and championed good practice.|
+|[Engaging Faith Communities][4]|I adapted Policy Lab's 'Styles of Government Intervention' as a framework for mapping current government engagement with faith communities. I identified gaps, and formed a  strategic plan to foster increased collaboration and partnership.|
+|[Public Sector Equality Duty][5]|I worked alongside the senior leadership team to influence the organisation's delivery of it's statutory equality and diversity strategy - The Equality Act 2010 & Public Sector Equality Duty. I designed and delivered a series of organisation-wide collaborative staff workshops that challenged complacency and championed good practice.|
 
 [4]:https://99ltaylor.github.io/portfolio/#engaging_faith_communities
 [5]:https://99ltaylor.github.io/portfolio/#public_sector_equality_duty
