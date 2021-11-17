@@ -15,7 +15,7 @@ I studied at Makers Academy. The course focused on pair programming, test driven
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
 |[Sneaker Seeker][1]|Final group project, a web app that suggests new footwear options for sneaker enthusiasts.|10 Days|React, Express, Javascript, Jasmine|
-| [Acebook][2]|Group project. A clone of facebook, including log-in functionality, posts, comments and likes. Deployed using Heroku.|10 Days|Ruby, Rails, HTML, RSpec|
+| [Acebook][2]|Facebook clone built using Rails. Finished features include profile pages, a news feed of other user's posts and uploaded images, including the ability to comment on them and like them. Deployed using Heroku.|10 Days|Ruby, Rails, HTML, RSpec|
 | [Sunrise B'n'B][3]|Group project. A clone of Air B'n'B.|5 Days|Ruby, Sinatra, PostgreSQL, HTML, CSS, RSpec|
 | [Chitter Challenge][4]| A ruby app built with REST API and PostgreSQL on Sinatra. One of my first full stack attempts.|2 Days| Sinatra, PostgreSQL, Becrypt, RSpec, Capybara|
 
