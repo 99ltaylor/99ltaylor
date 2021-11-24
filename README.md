@@ -12,7 +12,7 @@
 
 I studied at Makers Academy. The course focused on pair programming, test driven development, agile processes, and learning by doing. Here's a selection of my projects that demonstrate my technology and language skills.
 
-| Title    | Description |Timeframe| Technologies|
+| Title    | Description |Timeframe| Technologies| 
 | -------- | --------|--------| -------- |
 |[Sneaker Seeker][1]|Final group project, a web app that suggests new footwear options for sneaker enthusiasts.|10 Days|React, Express, Javascript, Jasmine|
 | [Acebook][2]|Facebook clone built using Rails. Finished features include profile pages, a news feed of other user's posts and uploaded images, including the ability to comment on them and like them. Deployed using Heroku.|10 Days|Ruby, Rails, Postgres /w ActiveRecord, HTML, CSS, RSPec, Capybara|
