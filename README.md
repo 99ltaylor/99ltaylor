@@ -1,4 +1,4 @@
-<h1 align="center">Hey, 👋🏽 I'm Luke!</h1>
+<h1 align="center">Hey, 👋🏽 I'm Luke!</h1> 
 
 <h3 align="center">Previously a Teacher, then a Whitehall Civil Servant. Now a Full-Stack Developer. </h3>
 
