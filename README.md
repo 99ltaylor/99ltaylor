@@ -41,7 +41,7 @@ I like blue sky thinking and connecting the dots (people, concepts & ideas) to c
 
 | Title    | Description |
 | -------- | --------|
-|[Accessio][6]|There's a lot of text out there and sometimes when looking for procedural advice to follow, we can struggle to find key points in lenghty documents. Accessio uses Machine Learning algorithms to identify instructions and converts these into a one-page, visual flow chart.|
+|[Accessio][6]|There's a lot of text out there and sometimes when looking for procedural advice to follow, we can struggle to find key points in lenghty documents. Accessio uses Machine Learning algorithms to identify instructions and converts these into an easy to access, visual flow chart.|
 
 [6]:https://github.com/99ltaylor/Accessio
 
