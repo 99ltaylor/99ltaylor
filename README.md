@@ -49,14 +49,14 @@ I like blue sky thinking and connecting the dots (people, concepts & ideas) to c
 
  * I am a qualified teacher and I mentor at [akt](https://www.akt.org.uk/). I always aim to adopt a [growth mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ&ab_channel=StanfordAlumni). I believe that [collaboration](https://www.ted.com/talks/lorna_davis_a_guide_to_collaborative_leadership/transcript?language=en) is a key part of this.
 
-### ⚙️ &nbsp; Where I've worked
+### ⚙️ &nbsp; Work experience
 
  * <strong>Programme Manager with Service Designer responsibilities</strong>, <em>UK Government</em>
  * <strong>Town Planner with Project Manager & Diversity & Inclusion Lead responsibilities</strong>, <em>London Borough of Southwark Council</em>
  * <strong>Teach First Teacher</strong>, <em>Schools in Hackney & Islington, Teach First</em>
  * <strong>Project Management Intern</strong>, <em>UN-Habitat</em>
 
-### 📚 &nbsp; What I've studied
+### 📚 &nbsp; Studies
 
  * <strong>Software Engineering Bootcamp</strong>, <em>Makers Academy</em>
  * <strong>Service Design</strong>, <em>University of the Arts London (UAL)</em>
@@ -65,7 +65,7 @@ I like blue sky thinking and connecting the dots (people, concepts & ideas) to c
  * <strong>MA International Development & Planning</strong>, <em>University of Sheffield</em>
  * <strong>BA (Honours) Urban Studies & Planning</strong>, <em>University of Sheffield & University of Illinois Urbana-Champaign, USA</em>
 
-### 🏆 &nbsp; Awards I am honoured to have received
+### 🏆 &nbsp; Awards
 
  * Makers Ambassador Programme,
  * Bar European Group Phoenicia Scholarship,
@@ -76,7 +76,7 @@ I like blue sky thinking and connecting the dots (people, concepts & ideas) to c
  * Joint Economic & Social Research Council & HMGovernment Fellowship,
  * John Richings James Travel Award.
  
-### 🏔 &nbsp; A few things that keep me busy
+### 🏔 &nbsp; Hobbies
 * Preparing for my first triathlon.
 * Learning Spanish & Portuguese.
 * Lego / DIY.
