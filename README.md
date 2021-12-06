@@ -37,7 +37,7 @@ As a Civil Servant, I developed an understanding of strategy and operations in b
 
 ### 🌜 &nbsp; Side projects
 
-I like blue sky thinking and connecting the dots (people, concepts & ideas) to create new products.
+I like blue sky thinking and connecting people, concepts & ideas to create new products.
 
 | Title    | Description |
 | -------- | --------|
