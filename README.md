@@ -37,11 +37,11 @@ As a Civil Servant, I developed an understanding of strategy and operations in b
 
 ### 🌜 &nbsp; Side projects
 
-I like blue sky thinking and connecting the dots (people, concepts & ideas) to create new interesting products.
+I like blue sky thinking and connecting the dots (people, concepts & ideas) to create new products.
 
 | Title    | Description |
 | -------- | --------|
-|[Accessio][6]|Being dyslexic, I sometimes struggle to access key points in lenghty documents. Accessio uses Machine Learning algorithms to identify instructions in text and converts these into a one-page visual flow chart.|
+|[Accessio][6]|There's a lot of text out there and sometimes we struggle to access key points in lenghty documents. Accessio uses Machine Learning algorithms to identify instructions in text and converts these into a one-page, visual flow chart.|
 
 [6]:https://github.com/99ltaylor/Accessio
 
