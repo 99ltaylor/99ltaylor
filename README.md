@@ -35,6 +35,16 @@ As a Civil Servant, I developed an understanding of strategy and operations in b
 [4]:https://99ltaylor.github.io/portfolio/#engaging_faith_communities
 [5]:https://99ltaylor.github.io/portfolio/#public_sector_equality_duty
 
+### 🌜 &nbsp; Side projects
+
+I like blue sky thinking and connecting the dots (people, concepts & ideas) to create new interesting products.
+
+| Title    | Description |
+| -------- | --------|
+|[Accessio][6]|Being dyslexic, I often struggle accessing key points in lenghty documents. Accessio uses Machine Learning algorithms to identify instructions in text and converts them into a one-page visual flow chart.|
+
+[6]:https://github.com/99ltaylor/Accessio
+
 ### 🧠 &nbsp; Growth mindset
 
  * I am a qualified teacher and I mentor at [akt](https://www.akt.org.uk/). I always aim to adopt a [growth mindset](https://www.youtube.com/watch?v=hiiEeMN7vbQ&ab_channel=StanfordAlumni). I believe that [collaboration](https://www.ted.com/talks/lorna_davis_a_guide_to_collaborative_leadership/transcript?language=en) is a key part of this.
