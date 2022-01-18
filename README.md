@@ -41,7 +41,7 @@ I like blue sky thinking and connecting people, concepts & ideas to create new p
 
 | Title    | Description |
 | -------- | --------|
-|[Accessio][6]|There's a lot of text out there and sometimes when looking for procedural advice to follow, we can struggle to find key points in lenghty documents. Accessio uses Machine Learning algorithms to identify instructions and converts these into an easy to access, visual flow chart.|
+|[Accessio][6]|Accessio contributes to current NLP research by training GPT-3 on disabilities in the Jamaican context.|
 
 [6]:https://github.com/99ltaylor/Accessio
 
