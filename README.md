@@ -1,6 +1,6 @@
 <h1 align="center">Hey, 👋🏽 I'm Luke!</h1>   
 
-<h3 align="center">Previously a Teacher, and Whitehall Civil Servant. Student of LIFE . </h3>
+<h3 align="center">Previously a Teacher, and Whitehall Civil Servant. Now a Student of LIFE 😜. </h3>
 
 
 <h3 align="center">Languages and Tools</h3>
