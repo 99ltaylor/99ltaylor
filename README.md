@@ -6,7 +6,7 @@
 | -------- | --------|
 |[Community Cadastre][7]|Community Cadastres serve to demystify the United Kingdom's opaque land ownership system. Utilising open data and open-source software, these cadastres facilitate the development of a localised land ownership database. This database can subsequently be employed to predict missing data and to devise strategies for retrofitting local housing stock to enhance energy efficiency.|
 
-[7]:https://github.com/99ltaylor/Accessio
+[7]:https://github.com/99ltaylor/community_cadastre
 
 ### 🎨 &nbsp; Policy design, strategy & influence
 
