@@ -1,79 +1,45 @@
-<h1 align="center">Hey, 👋🏽 I'm Luke!</h1>   
+<h1 align="center">Hey, 👋🏽 I'm Luke!</h1>
 
-<h3 align="center">Currently Learning...</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> </p>
+### 🔍 &nbsp; Current Research
 
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+| Title    | Description |
+| -------- | --------|
+|[Community Cadastre][7]|Community Cadastres serve to demystify the United Kingdom's opaque land ownership system. Utilising open data and open-source software, these cadastres facilitate the development of a localised land ownership database. This database can subsequently be employed to predict missing data and to devise strategies for retrofitting local housing stock to enhance energy efficiency.|
+
+[7]:https://github.com/99ltaylor/Accessio
+
+### 🎨 &nbsp; Policy design, strategy & influence
+
+| Title    | Description |
+| -------- | --------|
+|[Engaging Faith Communities][4]|I adapted Policy Lab's 'Styles of Government Intervention' as a framework to map current governmental engagement with faith communities. Through this approach, I identified existing gaps and formulated a strategic plan aimed at fostering enhanced collaboration and partnership.|
+|[Public Sector Equality Duty][5]|I collaborated with the senior leadership team to influence the organisation's execution of its statutory equality and diversity strategy, as mandated by the Equality Act 2010 and Public Sector Equality Duty. To this end, I designed and conducted a series of organisation-wide collaborative staff workshops that both challenged complacency and championed best practices.|
+
+[4]:https://99ltaylor.github.io/portfolio/#engaging_faith_communities
+[5]:https://99ltaylor.github.io/portfolio/#public_sector_equality_duty
 
 ### 🛠 &nbsp; Web development projects
 
-I studied at Makers Academy. The course focused on pair programming, test driven development, agile processes, and learning by doing. Here's a selection of my projects that demonstrate my technology and language skills.
-
 | Title    | Description |Timeframe| Technologies| 
 | -------- | --------|--------| -------- |
-|[Sneaker Seeker][1]|Final group project, a web app that suggests new footwear options for sneaker enthusiasts.|10 Days|React, Express, Javascript, Jasmine|
-| [Acebook][2]|Facebook clone built using Rails. Finished features include profile pages, a news feed of other user's posts and uploaded images, including the ability to comment on them and like them. Deployed using Heroku.|10 Days|Ruby, Rails, Postgres /w ActiveRecord, HTML, CSS, RSPec, Capybara|
-| [Sunrise B'n'B][3]|Group project. A clone of Air B'n'B, finished features include hosting and bookings.|5 Days|Ruby, Sinatra, PostgreSQL, HTML, CSS, RSpec|
+|[Sneaker Seeker][1]|For Makers Academy final group project, we developed a web application designed to recommend new footwear options specifically tailored for sneaker enthusiasts.|10 Days|React, Express, Javascript, Jasmine|
+| [Acebook][2]|A Facebook clone was constructed utilising the Ruby on Rails framework. The completed features encompass profile pages, a news feed displaying posts and uploaded images from other users, as well as the functionality to comment on and 'like' these posts. The application was deployed using Heroku.|10 Days|Ruby, Rails, Postgres /w ActiveRecord, HTML, CSS, RSPec, Capybara|
+| [Sunrise B'n'B][3]|In a group project, we developed a clone of Airbnb. The completed features included capabilities for hosting accommodations and facilitating bookings.|5 Days|Ruby, Sinatra, PostgreSQL, HTML, CSS, RSpec|
 
 [1]:https://github.com/InfobyAdrienne/Test-React-Express
 [2]:https://github.com/99ltaylor/acebook-all-css-no-style
 [3]:https://github.com/Ifrahhssn/makersbnb-sunrise-collective
 
-
-### 🎨 &nbsp; Policy design, strategy & influence
-
-As a Civil Servant, I developed an understanding of strategy and operations in big organisations and historic institutions. I used my design and teaching skills to support and upskill the team.
-
-| Title    | Description |
-| -------- | --------|
-|[Engaging Faith Communities][4]|I adapted Policy Lab's 'Styles of Government Intervention' as a framework for mapping current government engagement with faith communities. I identified gaps, and formed a  strategic plan to foster increased collaboration and partnership.|
-|[Public Sector Equality Duty][5]|I worked alongside the senior leadership team to influence the organisation's delivery of it's statutory equality and diversity strategy - The Equality Act 2010 & Public Sector Equality Duty. I designed and delivered a series of organisation-wide collaborative staff workshops that challenged complacency and championed good practice.|
-
-[4]:https://99ltaylor.github.io/portfolio/#engaging_faith_communities
-[5]:https://99ltaylor.github.io/portfolio/#public_sector_equality_duty
-
 ### 🌜 &nbsp; Side projects
 
-I like blue sky thinking and connecting people, concepts & ideas to create new products.
-
 | Title    | Description |
 | -------- | --------|
-|[Accessio][6]|Accessio contributes to current NLP research by training GPT-3 on disabilities in the Jamaican context.|
+|[Accessio][6]|Accessio contributes to contemporary research in Natural Language Processing (NLP) by training the GPT-3 algorithm specifically on issues pertaining to disabilities within the Jamaican context.|
 
 [6]:https://github.com/99ltaylor/Accessio
 
-### ⚙️ &nbsp; Work experience
+<h3 align="center">Connect with me at <br> <a href="mailto:99ltaylor@gmail.com">99ltaylor[at]gmail.com</a> </h3>
+<h3 align="center">or</h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/lukeojtaylor" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></h3>
 
- * <strong>Programme Manager with Service Designer responsibilities</strong>, <em>UK Government</em>
- * <strong>Town Planner with Project Manager & Diversity & Inclusion Lead responsibilities</strong>, <em>London Borough of Southwark Council</em>
- * <strong>Teach First Teacher</strong>, <em>Schools in Hackney & Islington, Teach First</em>
- * <strong>Project Management Intern</strong>, <em>UN-Habitat</em>
-
-### 📚 &nbsp; Studies
-
- * <strong>Software Engineering Bootcamp</strong>, <em>Makers Academy</em>
- * <strong>Service Design</strong>, <em>University of the Arts London (UAL)</em>
- * <strong>Graduate Diploma of Law (GDL)</strong>, <em>Nottingham Law School</em>
- * <strong>Postgraduate Certificate of Education (PGCE)</strong>, <em>UCL Institute of Education</em>
- * <strong>MA International Development & Planning</strong>, <em>University of Sheffield</em>
- * <strong>BA (Honours) Urban Studies & Planning</strong>, <em>University of Sheffield & University of Illinois Urbana-Champaign, USA</em>
-
-### 🏆 &nbsp; Awards
-
- * Makers Ambassador Programme,
- * Bar European Group Phoenicia Scholarship,
- * Regional Studies Association Travel Grant - World Bank Land and Poverty Conference,
- * Santander Bank Dissertation Award,
- * Qualified Teacher Status,
- * Joint Economic & Social Research Council & HMGovernment Fellowship,
- * John Richings James Travel Award.
- 
-### 🏔 &nbsp; Hobbies
-* Learning Spanish & Portuguese.
-* Lego, DIY & house re-modelling.
-* Getting lost & finding myself.
-
-<h3 align="center">Connect with me at <br> <a href=mailto:99ltaylor@gmail.com <br> 99ltaylor[at]gmail.com  </h3> <h3 align="center"> or <br></h3>
-<h3 align="center"><a href="https://www.linkedin.com/in/lukeojtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></h3>
-<br><br>
 <h3 align="center">                🐛     ...   ...   ...   ...   ...   ...   🦋  </h3>
