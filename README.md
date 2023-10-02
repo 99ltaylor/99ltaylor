@@ -4,7 +4,7 @@
 
 | Title    | Description |
 | -------- | --------|
-|[Community Cadastre][7]| A 'Community Cadastre' is a way of making the UK's land ownership system more transparent. They use open data and open-source software to create a database of land ownership records for a particular area. This database can then be used to predict missing data and to develop plans for improving the energy efficiency of local housing.|
+|[Community Cadastre][7]| A 'Community Cadastre' is a way of making the UK's land ownership system more transparent. It uses open data and open-source software to create a database of land ownership records for a particular area. This database can then be used to predict missing data and to develop plans for improving the energy efficiency of local housing.|
 
 [7]:https://github.com/99ltaylor/community_cadastre
 
