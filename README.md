@@ -1,4 +1,4 @@
-<h1 align="center">Hey, 👋🏽 I'm Luke!</h1>
+<h1 align="center">Hey, I'm Luke!</h1>
 
 ### 🔍 &nbsp; Current research
 
