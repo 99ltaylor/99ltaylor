@@ -1,14 +1,10 @@
-<h1 align="center">Hey, I'm Luke!
-  
-<br>
 
-View [my portfolio here: www.lukeojtaylor.xyz][8]
-
-[8]:http://www.lukeojtaylor.xyz
 
 </h1>
 
-### 🔍 &nbsp; Current research
+### Currently working on UK Digital Identity at GDS, on [ElTee1000](https://github.com/ElTee1000)
+
+### 🔍 &nbsp; Research and Development
 
 | Title    | Description |
 | -------- | --------|
@@ -37,17 +33,3 @@ View [my portfolio here: www.lukeojtaylor.xyz][8]
 [1]:https://github.com/InfobyAdrienne/Test-React-Express
 [2]:https://github.com/99ltaylor/acebook-all-css-no-style
 [3]:https://github.com/Ifrahhssn/makersbnb-sunrise-collective
-
-### 🌜 &nbsp; Side projects
-
-| Title    | Description |
-| -------- | --------|
-|[Accessio][6]|Accessio is a concept for a new research tool that helps people understand disabilities in Jamaica. It does this by using a powerful language model called GPT-3, which has been trained on a massive dataset of text and code.|
-
-[6]:https://github.com/99ltaylor/Accessio
-
-<h3 align="center">Connect with me at <br> <a href="mailto:99ltaylor@gmail.com">99ltaylor[at]gmail.com</a> </h3>
-<h3 align="center">or</h3>
-<h3 align="center"><a href="https://www.linkedin.com/in/lukeojtaylor" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a></h3>
-
-<h3 align="center">                🐛     ...   ...   ...   ...   ...   ...   🦋  </h3>
