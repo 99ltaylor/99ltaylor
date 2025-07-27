@@ -2,7 +2,7 @@
 
 </h1>
 
-### Currently working on UK Digital Identity at GDS, as [ElTee1000](https://github.com/ElTee1000)
+### Currently working on UK Digital Identity at GDS.
 
 ### 🔍 &nbsp; Research and Development
 
