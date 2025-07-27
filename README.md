@@ -2,7 +2,7 @@
 
 </h1>
 
-### Currently working on 🫆 UK Digital Identity at  🫆
+### Currently working on 🫆 UK Digital Identity 🫆
 
 ### 🔍 &nbsp; Research and Development
 
