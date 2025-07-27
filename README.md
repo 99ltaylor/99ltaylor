@@ -1,5 +1,5 @@
 
-### Currently working on Digital Identity <span style="font-size: 10em;">🫆</span>
+### Currently working on Digital Identity <span style="font-size: 10em;"></span>
 
 
 
